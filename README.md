@@ -76,3 +76,4 @@ Jupyter Notebook
 <img width="802" height="649" alt="image" src="https://github.com/user-attachments/assets/f55fe1aa-a1b3-4b76-a544-0f8c6fc4149b" />
 <img width="784" height="579" alt="image" src="https://github.com/user-attachments/assets/98626da2-ae47-4a83-a55d-93459b794e95" />
 <img width="711" height="592" alt="image" src="https://github.com/user-attachments/assets/cc8b0fc4-163e-4f08-87b2-0109aa563baf" />
+<img width="868" height="673" alt="image" src="https://github.com/user-attachments/assets/28145cf0-c7a2-4646-9a61-eac159061392" />

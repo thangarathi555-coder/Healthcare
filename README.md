@@ -73,3 +73,4 @@ Matplotlib
 Seaborn
 Jupyter Notebook
 <img width="786" height="597" alt="image" src="https://github.com/user-attachments/assets/108c3721-a5e3-4cc2-986b-66aa2aee1ac4" />
+<img width="802" height="649" alt="image" src="https://github.com/user-attachments/assets/f55fe1aa-a1b3-4b76-a544-0f8c6fc4149b" />

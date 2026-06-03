@@ -72,3 +72,4 @@ NumPy
 Matplotlib
 Seaborn
 Jupyter Notebook
+<img width="786" height="597" alt="image" src="https://github.com/user-attachments/assets/108c3721-a5e3-4cc2-986b-66aa2aee1ac4" />
